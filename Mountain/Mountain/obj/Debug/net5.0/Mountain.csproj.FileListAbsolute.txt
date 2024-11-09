@@ -1,0 +1,15 @@
+C:\Users\User\source\Algorithms\Mountain\Mountain\bin\Debug\net5.0\Mountain.exe
+C:\Users\User\source\Algorithms\Mountain\Mountain\bin\Debug\net5.0\Mountain.deps.json
+C:\Users\User\source\Algorithms\Mountain\Mountain\bin\Debug\net5.0\Mountain.runtimeconfig.json
+C:\Users\User\source\Algorithms\Mountain\Mountain\bin\Debug\net5.0\Mountain.runtimeconfig.dev.json
+C:\Users\User\source\Algorithms\Mountain\Mountain\bin\Debug\net5.0\Mountain.dll
+C:\Users\User\source\Algorithms\Mountain\Mountain\bin\Debug\net5.0\Mountain.pdb
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\Mountain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\Mountain.AssemblyInfoInputs.cache
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\Mountain.AssemblyInfo.cs
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\Mountain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\Mountain.dll
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\refint\Mountain.dll
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\Mountain.pdb
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\Mountain.genruntimeconfig.cache
+C:\Users\User\source\Algorithms\Mountain\Mountain\obj\Debug\net5.0\ref\Mountain.dll
