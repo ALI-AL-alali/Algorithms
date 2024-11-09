@@ -1,0 +1,15 @@
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\Insert_Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\Insert_Sorting.AssemblyInfoInputs.cache
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\Insert_Sorting.AssemblyInfo.cs
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\Insert_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\bin\Debug\net5.0\Insert_Sorting.exe
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\bin\Debug\net5.0\Insert_Sorting.deps.json
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\bin\Debug\net5.0\Insert_Sorting.runtimeconfig.json
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\bin\Debug\net5.0\Insert_Sorting.runtimeconfig.dev.json
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\bin\Debug\net5.0\Insert_Sorting.dll
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\bin\Debug\net5.0\Insert_Sorting.pdb
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\Insert_Sorting.dll
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\refint\Insert_Sorting.dll
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\Insert_Sorting.pdb
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\Insert_Sorting.genruntimeconfig.cache
+C:\Users\User\source\Algorithms\Insert_Sorting\Insert_Sorting\obj\Debug\net5.0\ref\Insert_Sorting.dll
