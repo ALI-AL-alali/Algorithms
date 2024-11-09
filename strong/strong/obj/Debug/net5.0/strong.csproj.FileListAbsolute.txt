@@ -1,0 +1,15 @@
+C:\Users\User\source\Algorithms\strong\strong\bin\Debug\net5.0\strong.exe
+C:\Users\User\source\Algorithms\strong\strong\bin\Debug\net5.0\strong.deps.json
+C:\Users\User\source\Algorithms\strong\strong\bin\Debug\net5.0\strong.runtimeconfig.json
+C:\Users\User\source\Algorithms\strong\strong\bin\Debug\net5.0\strong.runtimeconfig.dev.json
+C:\Users\User\source\Algorithms\strong\strong\bin\Debug\net5.0\strong.dll
+C:\Users\User\source\Algorithms\strong\strong\bin\Debug\net5.0\strong.pdb
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\strong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\strong.AssemblyInfoInputs.cache
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\strong.AssemblyInfo.cs
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\strong.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\strong.dll
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\refint\strong.dll
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\strong.pdb
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\strong.genruntimeconfig.cache
+C:\Users\User\source\Algorithms\strong\strong\obj\Debug\net5.0\ref\strong.dll
