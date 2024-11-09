@@ -1,0 +1,15 @@
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\bin\Debug\net5.0\Bubble_sorting.exe
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\bin\Debug\net5.0\Bubble_sorting.deps.json
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\bin\Debug\net5.0\Bubble_sorting.runtimeconfig.json
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\bin\Debug\net5.0\Bubble_sorting.runtimeconfig.dev.json
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\bin\Debug\net5.0\Bubble_sorting.dll
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\bin\Debug\net5.0\Bubble_sorting.pdb
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\Bubble_sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\Bubble_sorting.AssemblyInfoInputs.cache
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\Bubble_sorting.AssemblyInfo.cs
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\Bubble_sorting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\Bubble_sorting.dll
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\refint\Bubble_sorting.dll
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\Bubble_sorting.pdb
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\Bubble_sorting.genruntimeconfig.cache
+C:\Users\User\source\Algorithms\Bubble_sorting\Bubble_sorting\obj\Debug\net5.0\ref\Bubble_sorting.dll
